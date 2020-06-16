@@ -1,0 +1,24 @@
+[Yes]?4R[No]_3R
+
+[3RP]s%
+
+# [[---finish
+# ]Pf[---
+# ]P]s%
+
+# [---init
+# ]Pf[---
+# ]P
+
+[
+    6R6R6R
+    kdKr-
+
+    # [---subst
+    # ]Pf[---
+    # ]P
+
+    d0!<%  # finish
+    d0<"   # recursion
+
+]ds"x

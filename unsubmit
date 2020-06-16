@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for f in src/**/*.dc; do
+    if [ ! -f ${f%dc}URL ]; then
+        echo $f
+    fi
+done
